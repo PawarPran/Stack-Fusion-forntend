@@ -1,0 +1,71 @@
+#submit {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+#name,#mail{
+    margin-bottom: 17px;
+    justify-content: center;
+}
+.inputfield{
+    width: 55%;
+    margin-top: 10px;
+    height:23px;
+}
+.field{
+    margin-bottom: 15px;  
+}
+#button{
+    text-align: center;
+   margin-left: 90px;
+   width: 150px;
+   height: 30px;
+   color: black;
+   box-shadow: inset;
+   border-radius: 10px;
+   
+}
+p {
+    color: grey;
+}
+form{
+    margin-top: 10px;
+    height: 100px;
+    width: 200px;
+    padding-left: 10%;
+    margin: auto;
+    border: 1px solid blue;
+    height: 350px;
+    width: 410px;
+    padding-left: 11%;
+    margin: auto;
+    border-radius: 40px;
+    background-color: lightgreen;
+}
+.card{
+    width: 300px;
+    padding-left: 2%;
+    margin: auto;
+    border-radius: 25px;
+    border: 1px solid blue;
+    height: 300px;
+   
+    background-color: rgb(189, 186, 183);
+    margin-bottom: 16px;
+}
+input[type="phone"]{
+    width: 45%;
+   
+    height: 2px;
+    padding: 12px 20px;
+}
+label {
+    font-size: 18px;
+    font-weight: bold;
+    
+  }
